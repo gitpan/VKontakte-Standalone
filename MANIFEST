@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/VKontakte-Standalone.t
+lib/VKontakte/Standalone.pm
+META.yml                                 Module meta-data (added by MakeMaker)
